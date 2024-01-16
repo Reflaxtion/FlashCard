@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.scolor{
+    color: black;
+}
+.bcolor{
+    background-color: red;
+    color: white;
+}
+.rn{
+    /* width: 90%; */
+    width: 50%;
+}
+.sn{
+    
+    
+    width:50%;
+}
+.dis{
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    color: red;
+    
+}
+
+.red{
+background-color: red;
+color: black;
+}
+
